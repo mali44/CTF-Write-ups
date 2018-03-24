@@ -6,7 +6,7 @@ Cuz if you run the file you are asked for correct password.
 when we run the strings command to find out the strings in the rev1_file:
 Came across with those:
 ```bash
-**s3cret_pa55word
+s3cret_pa55word
 Sorry, the password isn't %s. Try again!
 Correct! You read my mind, have a flag: 
 /bin/cat flag
