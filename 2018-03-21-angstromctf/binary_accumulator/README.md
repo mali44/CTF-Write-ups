@@ -3,7 +3,8 @@
 ![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/binary_accumulator/binary_accumulator.jpeg?raw=true)
 
 Hints are very helpful in this ctf. So you will simply realize that program doesn't accept  over limited digits. 
-We know its around 2,1 billion a int value can store. Further more integer can convert to negative number
+We know its around 2,1 billion  that limit   a int value can store. The Further more integer can convert to negative number 
+AKA "Integer overflow"
 
 ```
 An integer overflow can cause the value to wrap and become negative,
