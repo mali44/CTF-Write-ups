@@ -31,10 +31,12 @@ Level 2 question is asked as you can see in the image above.
 We enter second input/S cuz just like in question it want 2 inputs from us
 
 ##But A rule there is ! 
-First input < Second Input. Ok so look what happe next ?
-![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/level2_meet_reuirements.png?raw=true)
-```
 Firstly both of our inputs get controlled if the both are in between 9<x<99 or not
+
+![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/level2_meet_reuirements.png?raw=true)
+
+```
+First input < Second Input. Ok so look what happe next ?
 ```
 Ok, lets take attention and right input after.
 ![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/rev2_radare2_level2_check.png?raw=true)
