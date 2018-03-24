@@ -36,7 +36,7 @@ Firstly both of our inputs get controlled if the both are in between 9<x<99 or n
 ![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/level2_meet_reuirements.png?raw=true)
 
 ```
-First input < Second Input. Ok so look what happe next ?
+First input < Second Input. Ok so look what happen next ?
 ```
 Ok, lets take attention and right input after.
 ![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/rev2_radare2_level2_check.png?raw=true)
