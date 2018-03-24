@@ -12,5 +12,6 @@ which violates the program's assumption and may lead to unexpected behavior
 ```
 
 So my sloution was:
+
 ![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/binary_accumulator/accumulator.png?raw=true)
 
