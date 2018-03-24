@@ -26,12 +26,13 @@ If I do enter random one it'd take me through
 ```
 0x08048554      6834870408     push str.Sorry__your_guess_of__d_was_incorrect._Try_again
 ```
-So I pass easily to second level. By that mean is we jump at 0x804856b.
-and Level 2 question is asked as you can see in the image above.
-We enter second input/S cuz just like in question it want 2 inputs from us and  
-##A rule there is ! 
+So I pass easily to second level. By that mean is we jump to address 0x804856b.
+Level 2 question is asked as you can see in the image above.
+We enter second input/S cuz just like in question it want 2 inputs from us
+
+##But A rule there is ! 
 First input < Second Input. Ok so look what happe next ?
-![]https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/level2_meet_reuirements.png?raw=true)
+![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/rev_2/rev2%20images/level2_meet_reuirements.png?raw=true)
 ```
 Firstly both of our inputs get controlled if the both are in between 9<x<99 or not
 ```
