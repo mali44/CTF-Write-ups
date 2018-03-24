@@ -15,3 +15,9 @@ So my sloution was:
 
 ![](https://github.com/mali44/CTF-Write-ups/blob/master/2018-03-21-angstromctf/binary_accumulator/accumulator.png?raw=true)
 
+when you run it on server side :
+Flag:
+```
+actf{signed_ints_aint_safe}
+```
+
